@@ -39,9 +39,10 @@ S'authentifier auprès de Keystone en tant qu'administrateur.
 * [OpenStackSDK Doc](https://docs.openstack.org/openstacksdk/latest/user/index.html) 
 
 
-## Auteur
+## Auteurs
 
 * **Timothée MATHIEU** 
+* **Guillaume PIOLEE** 
 
 
 ## License
