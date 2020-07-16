@@ -42,7 +42,7 @@ S'authentifier auprès de Keystone en tant qu'administrateur.
 ## Auteurs
 
 * **Timothée MATHIEU** 
-* **Guillaume PIOLEE** 
+* **Guillaume PIOLLE** 
 
 
 ## License
